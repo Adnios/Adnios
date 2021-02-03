@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning .Machine Learning Systems
+- 🌱 I’m currently learning Machine Learning Systems
 
 ## 新年汇总 ✨
 
